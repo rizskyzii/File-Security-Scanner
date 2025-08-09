@@ -4,7 +4,7 @@ This repository contains a set of Python scripts for scanning and cleaning files
 
 ### Scripts Included:
 1. **keyword_gambling_detection_tool.py**
-2. **findscanner.py**
+2. **php_backdoor_scanner.py**
 3. **judolscanner.py**
 
 ### Purpose
