@@ -3,7 +3,7 @@
 This repository contains a set of Python scripts for scanning and cleaning files on a server or local directory, specifically targeting files related to online gambling and backdoor patterns. The scripts utilize keyword scanning to detect and remove harmful files that may pose a security risk.
 
 ### Scripts Included:
-1. **delletekeyword.py**
+1. **keyword_gambling_detection_tool.py**
 2. **findscanner.py**
 3. **judolscanner.py**
 
