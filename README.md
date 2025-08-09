@@ -16,13 +16,13 @@ The scripts in this repository are designed to:
 
 ### How to Use
 
-1. **delletekeyword.py**  
+1. **keyword_gambling_detection_tool.py**  
    This script scans files for keywords related to gambling and deletes any file found with those keywords. It provides the option to scan a specific directory or all directories in the current working directory.
 
-2. **findscanner.py**  
+2. **php_backdoor_scanner.py**  
    This script scans files for backdoor patterns in PHP files, detecting potential threats such as `eval()`, `base64_decode()`, and other common backdoor functions. It also allows directory scanning.
 
-3. **judolscanner.py**  
+3. **gambling_keyword_scanner.py**  
    Similar to the other scripts, this one is focused on scanning for gambling-related keywords, specifically looking for terms associated with gambling websites. It works in the same way, with an option for scanning either specific directories or the current directory.
 
 ### Features
@@ -45,7 +45,7 @@ The scripts in this repository are designed to:
 
 3. Run the script:
     ```bash
-    python delletekeyword.py
+    python keyword_gambling_detection_tool.py
     ```
 
     Replace `delletekeyword.py` with any other script file name to use them individually.
@@ -57,4 +57,4 @@ The scripts in this repository are designed to:
 ### Example Usage
 To scan the current directory and remove any files with gambling-related keywords:
 ```bash
-python delletekeyword.py
+python keyword_gambling_detection_tool.py
